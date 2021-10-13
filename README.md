@@ -79,6 +79,7 @@ Give us a :star: if you like our work :heart:
 - [Push changes](commands/git/git-push.md) - Push changes from local respository to remote.
 - [RM Cached](commands/git/git-rm-cached.md) - Remove cached files which are added in .gitignore later.
 - [Reset File](commands/git/git-reset.md) - Reset committed changes of a file.
+- [Delete Branch] (commands/git/git-delete-branch.md) - Deletes branch from remote
 - [Restore Branch](commands/git/git-restore-branch.md) - Restore a deleted branch.
 - [Status](commands/git/git-status.md) - Git status to check the file list in which changes are made.
 - [Stage](commands/git/git-stage.md) - Stage (add) the new changes done to commit those changes.
